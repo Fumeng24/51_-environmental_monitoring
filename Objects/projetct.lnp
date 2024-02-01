@@ -1,0 +1,9 @@
+".\Objects\main.obj",
+".\Objects\dht11.obj",
+".\Objects\oled.obj",
+".\Objects\DS1302.obj",
+".\Objects\key.obj",
+".\Objects\display.obj" 
+TO ".\Objects\projetct" 
+PRINT(".\Listings\projetct.m51") RAMSIZE(256) 
+CODE( 0X0000-0X1FFF )

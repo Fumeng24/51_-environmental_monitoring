@@ -1,0 +1,1 @@
+"display.c" LARGE ROM(COMPACT) WARNINGLEVEL (0) OPTIMIZE (9,SIZE) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\display.lst) TABS (2) OBJECT(.\Objects\display.obj)
